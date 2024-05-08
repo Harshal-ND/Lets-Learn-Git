@@ -21,3 +21,11 @@
 
 --> check the remote repo : git remote -v
 -->adding repo origin: git remote add origin https://github.com/Harshal-ND/Lets-Learn-Git.git 
+
+			origin is the name given to this repo https://github.com/Harshal-ND/Lets-Learn-Git.git
+			
+--> setting up upstream and pushing our local code to remote: git push -u origin main
+
+				here upstream is set to origin named repos "main" branch
+
+			
