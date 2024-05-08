@@ -6,4 +6,8 @@
 3. Setting EmailId: git config --global user.email "harshal.dhongadi@anmsoft.com"
 3.1. For checking userEmail: git config --global user.email
 
+4. Making changes in the main config file of git: git config --global --edit
+4.1 After making changes : press escape and then type ":wq"
 
+
+5.
