@@ -11,3 +11,13 @@
 
 
 5.
+
+
+
+
+******** Fetching and Pushing your Local changes to Remote Repository
+
+1. Setting up the remote repo to know git from where we need to interact
+
+--> check the remote repo : git remote -v
+-->adding repo origin: git remote add origin https://github.com/Harshal-ND/Lets-Learn-Git.git 
